@@ -16,7 +16,6 @@ A plataforma oferece ferramentas que permitem:
 
 ## 🔑 Principais Recursos
 - ⚡ **Geração Rápida**: crie conteúdos em segundos com poucos cliques.  
-- 🤖 **IA Integrada**: use modelos inteligentes para melhorar criatividade e eficiência.  
 - 🎨 **Personalização Total**: adapte cada resultado ao seu estilo ou necessidade.  
 - 📡 **Disponível na Web**: acessível de qualquer lugar, sem complicações.  
 
@@ -33,14 +32,6 @@ A plataforma oferece ferramentas que permitem:
 ## 📌 Como acessar
 Basta entrar em: **[www.4generate.com](https://www.4generate.com)**  
 Crie sua conta e explore as funcionalidades disponíveis.
-
----
-
-## 🛠️ Roadmap
-- [ ] Lançamento da versão beta  
-- [ ] Novos templates de conteúdo  
-- [ ] API pública para integração  
-- [ ] Ferramentas avançadas de automação  
 
 ---
 
